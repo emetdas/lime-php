@@ -137,7 +137,6 @@ window.addEventListener('click',(e)=>{
 });
 // console.log(clickicon.options[clickicon.selectedIndex].value);
 </script>
-
 <?php
 include "footer.php";
 ?>
