@@ -1,6 +1,6 @@
 <?php
 session_start();
-$title = "Checking Item";
+$title = "Store summary";
     include 'header.php';
     include 'navbar.php';
 ?>
@@ -11,7 +11,7 @@ $title = "Checking Item";
         </div>
         <div class="col-md-9">
           <div id="main">
-            <h2 class="text-center pt-3">Checking Item</h2>
+            <h2 class="text-center pt-3">Summary</h2>
           </div>
         </div>
       </div>

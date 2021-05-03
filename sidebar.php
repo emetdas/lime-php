@@ -160,36 +160,35 @@
             <a href="general.php" class="w-100 btn"> General </a>
             <a href="preparation-checklist.php" class="w-100 btn"> Preparation checklist</a>
             <a href="checking-item.php" class="w-100 btn"> Checking item </a>
-            <a href="#!" class="w-100 btn"> Four point inspection system</a>
-            <a href="#!" class="w-100 btn"> Fabric inspection summary sheet </a>
-            <a href="#!" class="w-100 btn"> Overall result</a>
+            <a href="four-point-inspection.php" class="w-100 btn"> Four point inspection system</a>
+            <a href="fabric-inspection-summary.php" class="w-100 btn"> Fabric inspection summary sheet </a>
+            <a href="overall-result.php" class="w-100 btn"> Overall result</a>
           </div>
-            <a href="#!" class="w-100 btn"> Shrinkage report</a>
+            <a href="shrinkage-report.php" class="w-100 btn"> Shrinkage report</a>
+            <a href="shade-brand-report.php" class="w-100 btn"> Shade brand report</a>
 
-            <a href="#!" class="w-100 btn"> Shade brand report</a>
-
-            <a href="#!" class="w-100 btn"> Gem report</a>
-            <a href="#!" class="w-100 btn"> summary </a>
+            <a href="gem-report.php" class="w-100 btn"> Gem report</a>
+            <a href="store-summary.php" class="w-100 btn"> summary </a>
           </div>
 
             <a href="received-inventory-area.php" class="w-100 btn">
               Received inventory area
             </a>
 
-            <a href="#!" class="w-100 btn">
+            <a href="keeping-area.php" class="w-100 btn">
               Keeping area
             </a>
 
-            <a href="#!" class="w-100 btn">
+            <a href="received-recognition.php" class="w-100 btn">
               Received recognition
             </a>
-            <a href="#!" class="w-100 btn">
+            <a href="store-issue.php" class="w-100 btn">
               Issue
             </a>
             <a href="#!" class="w-100 btn">
               Summary
             </a>
-            <a href="#!" class="w-100 btn">
+            <a href="store-stock.php" class="w-100 btn">
               Stock
             </a>
           </div>
@@ -217,7 +216,6 @@
             <a href="#!" class="w-100 btn">
               Cutting update
             </a>
-
             <a href="#!" class="w-100 btn">
               Received recognition
             </a>
