@@ -13,7 +13,7 @@ include 'navbar.php';
       <div id="main">
         <h2 class="text-center pt-3">Overall Result</h2>
 
-        <form action="" class="m-auto pt-3">
+        <form action="post" class="m-auto pt-3">
 
           <div class="input-group d-flex justify-content-between form-label mb-3">
             <label for="overall-result" class="mx-3">Overall Result :</label>
