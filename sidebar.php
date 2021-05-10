@@ -167,7 +167,7 @@
             <a href="shrinkage-report.php" class="w-100 btn"> Shrinkage report</a>
             <a href="shade-brand-report.php" class="w-100 btn"> Shade brand report</a>
 
-            <a href="gem-report.php" class="w-100 btn"> Gem report</a>
+            <a href="gsm-report.php" class="w-100 btn"> Gsm report</a>
             <a href="store-summary.php" class="w-100 btn"> summary </a>
           </div>
 
