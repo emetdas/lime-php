@@ -122,7 +122,6 @@ include 'navbar.php';
               <td>LENGTH EDGE 2</td>
 
 
-
             </tr>
             <tr>
               <td>1</td>
