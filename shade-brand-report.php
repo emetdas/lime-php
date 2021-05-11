@@ -126,12 +126,9 @@ include 'navbar.php';
                 <td></td>
                 <td></td>
               </tr>
-
             </tbody>
           </table>
         </div>
-
-
       </div>
     </div>
   </div>
