@@ -162,7 +162,6 @@ include 'navbar.php';
                             </div>
                         </div>
                     </div>
-
                     <div class="input-group d-flex justify-content-between form-label mb-3">
 
                         <label for="equipment-weight-scale" class="mx-3">Equipment/Weight Scale</label>
@@ -178,7 +177,6 @@ include 'navbar.php';
                             </div>
                         </div>
                     </div>
-
                     <div class="input-group d-flex justify-content-between form-label mb-3">
                         <label for="Head" class="mx-3">Equipment/Punch</label>
                         <div>
