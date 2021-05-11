@@ -130,11 +130,8 @@ include 'navbar.php';
                             </div>
                         </div>
                     </div>
-
                     <div class="input-group d-flex justify-content-between form-label mb-3">
-
                         <label for="equipment-standard-light-box" class="mx-3">Equipment/Standard Light Box</label>
-
                         <div>
                             <div class="form-check form-check-inline">
                                 <input class="form-check-input" type="radio" name="equipment-standard-light-box" id="equipment-standard-light-box-accept" value="accept">
@@ -146,7 +143,6 @@ include 'navbar.php';
                             </div>
                         </div>
                     </div>
-
                     <div class="input-group d-flex justify-content-between form-label mb-3">
 
                         <label for="equipment-length-counter" class="mx-3">equipment-length-counter</label>
