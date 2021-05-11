@@ -111,7 +111,6 @@ include 'navbar.php';
               <td rowspan="2">PATTERN GROUP</td>
               <td rowspan="2">MARKER TYPE</td>
               <td rowspan="2">STATUS</td>
-
             </tr>
             <tr>
               <td>LENGTH EDGEE</td>
