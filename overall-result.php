@@ -15,7 +15,6 @@ include 'navbar.php';
         <form action="post" class="m-auto pt-3">
           <div class="input-group d-flex justify-content-between form-label mb-3">
             <label for="overall-result" class="mx-3">Overall Result :</label>
-
             <div class="form-check form-check-inline">
               <input class="form-check-input" type="radio" name="overall-result" id="overall-result-pass" value="pass">
               <label class="form-check-label" for="overall-result-pass">Pass</label>
@@ -35,7 +34,6 @@ include 'navbar.php';
             <button type="submit" class="btn bg-primary mb-3">
               Submit
             </button>
-
           </div>
         </form>
       </div>
