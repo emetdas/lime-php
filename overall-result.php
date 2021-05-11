@@ -30,8 +30,6 @@ include 'navbar.php';
               <input class="form-check-input" type="radio" name="overall-result" id="overall-result-pending" value="fail">
               <label class="form-check-label" for="overall-result-pending">Pending</label>
             </div>
-
-
           </div>
           <textarea placeholder="Remark:" class="form-control" id="" name="" rows="8" cols="100">
           </textarea>
