@@ -88,7 +88,6 @@ include 'navbar.php';
               <td colspan="3">ROLLS DOCUMENT :49 ROLLS</td>
             </tr>
             <tr>
-
               <td class="text-center" colspan="15"> SHRINKAGE DETAILS</td>
               <td colspan="3">N</td>
 
