@@ -125,7 +125,6 @@ include 'navbar.php';
 
             </tr>
 
-
             <tr>
               <td>1</td>
               <td>6465</td>
