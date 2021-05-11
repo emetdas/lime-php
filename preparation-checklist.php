@@ -190,7 +190,6 @@ include 'navbar.php';
                                 <input class="form-check-input" type="radio" name="equipment-punch" id="equipment-punch-fail" value="fail">
                                 <label class="form-check-label" for="equipment-punch-fail">Fail</label>
                             </div>
-
                         </div>
                     </div>
 
