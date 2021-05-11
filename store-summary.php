@@ -81,14 +81,11 @@ include 'navbar.php';
               <td colspan="6">Length Wise...#03:44%... Width Wise.. 44.00%..</td>
               <td colspan="4">SHRINKAGE Template 34 X 34</td>
               <td colspan="5">ROLLS DOCUMENT :49 ROLLS</td>
-
             </tr>
             <tr>
               <td colspan="2">BULK DATE </td>
               <td colspan="13"> </td>
-
               <td colspan="3">ROLLS DOCUMENT :49 ROLLS</td>
-
             </tr>
             <tr>
 
