@@ -80,7 +80,7 @@
               Delivery Date
             </a>
             <a href="quantity.php" class="w-100 btn">
-            Quantity
+              Quantity
             </a>
             <a href="summary.php" class="w-100 btn"> Summary</a>
           </div>
@@ -119,17 +119,17 @@
     <div class="accordion-item">
       <div class="accordion-header" id="sample-contain">
         <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#sample" aria-expanded="true" aria-controls="sample">
-        Sample
+          Sample
         </button>
       </div>
       <div id="sample" class="accordion-collapse collapse" aria-labelledby="sample-contain" data-bs-parent="#sample">
         <div class="accordion-body">
           <div class="link-list">
             <a href="#!" class="mt-1 w-100 btn">
-            Add part name
+              Add part name
             </a>
             <a href="#!" class="mt-1 w-100 btn">
-            Summary 
+              Summary
             </a>
           </div>
         </div>
@@ -149,27 +149,27 @@
             <a href="recived_orinted.php" class="mt-1 w-100 btn">
               Received oriented area
             </a>
-          <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#quality-check" aria-expanded="true" aria-controls="quality-check" data-bs-parent="#quality-check">
-            Quality check
-          </button>
-          <div id="quality-check" class="accordion-collapse collapse px-4" aria-labelledby="quality-check-contain" data-bs-parent="#quality-check">
-            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#quality-inspection" aria-expanded="true" aria-controls="quality-inspection" data-bs-parent="#quality-inspection">
-            Quality inspection
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#quality-check" aria-expanded="true" aria-controls="quality-check" data-bs-parent="#quality-check">
+              Quality check
             </button>
-                <div id="quality-inspection" class="accordion-collapse collapse px-4" aria-labelledby="quality-inspection-contain" data-bs-parent="#quality-inspection">
-                  <a href="general.php" class="w-100 btn"> General </a>
-                  <a href="preparation-checklist.php" class="w-100 btn"> Preparation checklist</a>
-                  <a href="checking-item.php" class="w-100 btn"> Checking item </a>
-                  <a href="four-point-inspection.php" class="w-100 btn"> Four point inspection system</a>
-                  <a href="fabric-inspection-summary.php" class="w-100 btn"> Fabric inspection summary sheet </a>
-                  <a href="overall-result.php" class="w-100 btn"> Overall result</a>
-                </div>
+            <div id="quality-check" class="accordion-collapse collapse px-4" aria-labelledby="quality-check-contain" data-bs-parent="#quality-check">
+              <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#quality-inspection" aria-expanded="true" aria-controls="quality-inspection" data-bs-parent="#quality-inspection">
+                Quality inspection
+              </button>
+              <div id="quality-inspection" class="accordion-collapse collapse px-4" aria-labelledby="quality-inspection-contain" data-bs-parent="#quality-inspection">
+                <a href="general.php" class="w-100 btn"> General </a>
+                <a href="preparation-checklist.php" class="w-100 btn"> Preparation checklist</a>
+                <a href="checking-item.php" class="w-100 btn"> Checking item </a>
+                <a href="four-point-inspection.php" class="w-100 btn"> Four point inspection system</a>
+                <a href="fabric-inspection-summary.php" class="w-100 btn"> Fabric inspection summary sheet </a>
+                <a href="overall-result.php" class="w-100 btn"> Overall result</a>
+              </div>
               <a href="shrinkage-report.php" class="w-100 btn"> Shrinkage report</a>
               <a href="shade-brand-report.php" class="w-100 btn"> Shade brand report</a>
 
               <a href="gsm-report.php" class="w-100 btn"> Gsm report</a>
               <a href="store-summary.php" class="w-100 btn"> summary </a>
-          </div>
+            </div>
 
             <a href="received-inventory-area.php" class="w-100 btn">
               Received inventory area
@@ -188,28 +188,28 @@
             <a href="#!" class="w-100 btn">
               Summary
             </a>
-          <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#Stationary" aria-expanded="true" aria-controls="Stationary" data-bs-parent="#Stationary">
-            Stationary
-          </button>
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#Stationary" aria-expanded="true" aria-controls="Stationary" data-bs-parent="#Stationary">
+              Stationary
+            </button>
             <div id="Stationary" class="accordion-collapse collapse px-4" aria-labelledby="Stationary-contain" data-bs-parent="#Stationary">
               <a href="#!" class="w-100 btn"> Daily purchase</a>
-              <a href="#!" class="w-100 btn"> Daily received  </a>
+              <a href="#!" class="w-100 btn"> Daily received </a>
               <a href="#!" class="w-100 btn"> Daily issue </a>
               <a href="#!" class="w-100 btn">summary </a>
             </div>
-          <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#stock" aria-expanded="true" aria-controls="stock" data-bs-parent="#stock">
-            Stock
-          </button>
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#stock" aria-expanded="true" aria-controls="stock" data-bs-parent="#stock">
+              Stock
+            </button>
             <div id="stock" class="accordion-collapse collapse px-4" aria-labelledby="stock-contain" data-bs-parent="#stock">
-               <a href="#!" class="w-100 btn">Sending stock</a>
-               <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#received-stock" aria-expanded="true" aria-controls="received-stock" data-bs-parent="#received-stock">
-                 Received stock   
-               </button>
-                  <div id="received-stock" class="accordion-collapse collapse px-4" aria-labelledby="received-stock-contain" data-bs-parent="#received-stock">
-                    <a href="#!" class="w-100 btn">Sewing stock</a>
-                    <a href="#!" class="w-100 btn">Finishing stock</a>
-                    <a href="#!" class="w-100 btn">Cutting stock</a>
-                  </div>
+              <a href="#!" class="w-100 btn">Sending stock</a>
+              <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#received-stock" aria-expanded="true" aria-controls="received-stock" data-bs-parent="#received-stock">
+                Received stock
+              </button>
+              <div id="received-stock" class="accordion-collapse collapse px-4" aria-labelledby="received-stock-contain" data-bs-parent="#received-stock">
+                <a href="#!" class="w-100 btn">Sewing stock</a>
+                <a href="#!" class="w-100 btn">Finishing stock</a>
+                <a href="#!" class="w-100 btn">Cutting stock</a>
+              </div>
               <a href="#!" class="w-100 btn">Stock summary</a>
               <a href="#!" class="w-100 btn">Withdraw stock</a>
             </div>
