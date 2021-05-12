@@ -136,7 +136,7 @@
       </div>
     </div>
     <!-- Sample-end -->
-    <!-- storte-start -->
+    <!-- store-start -->
     <div class="accordion-item">
       <div class="accordion-header" id="store-contain">
         <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#store" aria-expanded="true" aria-controls="store">
@@ -188,6 +188,9 @@
             <a href="#!" class="w-100 btn">
               Summary
             </a>
+            <a href="#!" class="w-100 btn">
+              Stationary 
+            </a>
             <a href="store-stock.php" class="w-100 btn">
               Stock
             </a>
@@ -195,7 +198,7 @@
         </div>
       </div>
     </div>
-    <!-- storte-end -->
+    <!-- store-end -->
     <!-- Cutting-start  -->
     <div class="accordion-item">
       <div class="accordion-header" id="Cutting-contain">
