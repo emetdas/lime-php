@@ -1,6 +1,6 @@
 <?php
 session_start();
-$title = "Summary";
+$title = "Daily Received";
 include "header.php";
 include "navbar.php";
 ?>
@@ -11,6 +11,56 @@ include "navbar.php";
         </div>
         <div class="col-md-9">
             <div id="main">
+                <h1 class="text-center">Daily Received </h1>
+                <div class="table-responsive">
+                    <table class="table table-bordered">
+                        <thead>
+                        <tr>
+                            <th>SL NO</th>
+                            <th>PURCHASE NO</th>
+                            <th>QUANTITY</th>
+                            <th>RECEIVED</th>
+                            <th>BALANCE</th>
+                            <th> REMARKS </th>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+
+
+
+                        </thead>
+                    </table>
+                </div>
 
             </div>
         </div>

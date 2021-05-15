@@ -228,7 +228,7 @@
       <div id="Cutting" class="accordion-collapse collapse" aria-labelledby="Cutting-contain" data-bs-parent="#Cutting">
         <div class="accordion-body">
           <div class="link-list">
-            <a href="fabric-inspection-summary.php" class="mt-1 w-100 btn">
+            <a href="cutting-summery.php" class="mt-1 w-100 btn">
               Fabric inspection summary
             </a>
             <a href="" class="mt-1 w-100 btn">
@@ -239,7 +239,7 @@
                Pattern Quality
             </button>
             <div id="pattern-quality" class="accordion-collapse collapse px-4" aria-labelledby="pattern-quality-contain" data-bs-parent="#pattern-quality">
-              <a href="" class="mt-1 w-100 btn">
+              <a href="pattern-check-record.php" class="mt-1 w-100 btn">
                Size set pattern
               </a>
               <a href="" class="mt-1 w-100 btn">
@@ -259,11 +259,11 @@
               Cutting
             </button>
             <div id="indside-Cutting" class="accordion-collapse collapse px-4" aria-labelledby="indside-Cutting-contain" data-bs-parent="#indside-Cutting">
-              <a href="#!" class="w-100 btn">
-                Relegation
+              <a href="fabric-relax-time-recording.php" class="w-100 btn">
+                Relax
               </a>
               <a href="#!" class="w-100 btn">
-                Relegation summary 
+                Relax summary 
               </a>
               <a href="spreading-quality-control.php" class="w-100 btn">
                 Spreading
@@ -277,7 +277,7 @@
              Cutting update
             </button>
               <div id="cutting-update" class="accordion-collapse collapse px-4" aria-labelledby="cutting-update-contain" data-bs-parent="#cutting-update">
-                <a href="#!" class="w-100 btn">
+                <a href="cutting-summery-update.php" class="w-100 btn">
                   Summary 
                 </a>
               </div>
@@ -287,7 +287,7 @@
             <a href="#!" class="w-100 btn">
               Issue
             </a>
-            <a href="cutting-summery.php" class="w-100 btn">
+            <a href="#!" class="w-100 btn">
               Summary
             </a>
           </div>
