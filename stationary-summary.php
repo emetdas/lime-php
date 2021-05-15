@@ -55,9 +55,6 @@ include "navbar.php";
                                 <td></td>
                                 <td></td>
                             </tr>
-
-
-
                             </thead>
                         </table>
                     </div>
