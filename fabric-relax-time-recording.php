@@ -1,13 +1,13 @@
 <?php 
 session_start();
 $title = "fabic relax";
-include "header.php";
-include "navbar.php";
+include "../header.php";
+include "../navbar.php";
 ?>
     <div class="container-fluid">
       <div class="row">
         <div class="col-md-3 p-0">
-          <?php include "sidebar.php";?>
+          <?php include "../sidebar.php";?>
         </div>
         <div class="col-md-9">
           <div id="main">
@@ -64,5 +64,5 @@ include "navbar.php";
       </div>
     </div>
 <?php 
-include "footer.php";
+include "../footer.php";
 ?>

@@ -1,6 +1,6 @@
 <?php 
 session_start();
-$title = "fabic relax";
+$title = "Lime";
 include "header.php";
 include "navbar.php";
 ?>
@@ -11,7 +11,7 @@ include "navbar.php";
         </div>
         <div class="col-md-9">
           <div id="main">
-              <h3 class="text-center pt-2"> FABRIC RELAX TIME RECORD</h3>
+              <h3 class="text-center pt-2"> PATTERN CHECK RECORD</h3>
               <div class="row">
                   <div class="col-md-6">
                       <p>BUYER : <span>____</span></p>
@@ -32,29 +32,48 @@ include "navbar.php";
                 <table class="table table-bordered">
                    <thead>
                        <tr>
-                           <th rowspan="2"> DATE </th>
-                           <th rowspan="2">FABRIC TYPE</th>
-                           <th rowspan="2">ROLL NO</th>
-                           <th rowspan="2"> QUANTITY </th>
-                           <th colspan="2">RELAX TIME</th>
+                           <th rowspan="2">POINT OF MEASUREMENT</th>
+                           <th rowspan="2">SPEC</th>
+                           <th rowspan="2">PATTEN</th>
+                           <th rowspan="2">DEF</th>
+                           <th rowspan="2">ADVICE</th>
+                           <th colspan="2">ADDED SHRINKAGE%</th>
+                           <th colspan="2">FABRIC SHRINKAGE%</th>
                            <th rowspan="2">REMARKS</th>
                        </tr>
                    <tr>
-                       <th>STATUS</th>
-                       <th>ENDS</th>
+                       <th>LENGTHS</th>
+                       <th>WIDTHS</th>
+                       <th>LENGTHS</th>
+                       <th>WIDTHS</th>
+
+
                    </tr>
 
                    <tr>
-                       <td>02/11/21</td>
+                       <td>wdqwd</td>
                        <td></td>
                        <td></td>
                        <td></td>
                        <td></td>
                        <td></td>
                        <td></td>
-
+                       <td></td>
+                       <td></td>
+                       <td></td>
                    </tr>
-
+                   <tr>
+                       <td>wdqwd</td>
+                       <td></td>
+                       <td></td>
+                       <td></td>
+                       <td></td>
+                       <td></td>
+                       <td></td>
+                       <td></td>
+                       <td></td>
+                       <td></td>
+                   </tr>
                    
                    </thead>
                 </table>

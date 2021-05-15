@@ -192,26 +192,26 @@
               Stationary
             </button>
             <div id="Stationary" class="accordion-collapse collapse px-4" aria-labelledby="Stationary-contain" data-bs-parent="#Stationary">
-              <a href="#!" class="w-100 btn"> Daily purchase</a>
-              <a href="#!" class="w-100 btn"> Daily received </a>
-              <a href="#!" class="w-100 btn"> Daily issue </a>
-              <a href="#!" class="w-100 btn">summary </a>
+              <a href="daily-purchase.php" class="w-100 btn"> Daily purchase</a>
+              <a href="daily-received.php" class="w-100 btn"> Daily received </a>
+              <a href="daily-issue.php" class="w-100 btn"> Daily issue </a>
+              <a href="stationary-summary.php" class="w-100 btn">summary </a>
             </div>
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#stock" aria-expanded="true" aria-controls="stock" data-bs-parent="#stock">
               Stock
             </button>
             <div id="stock" class="accordion-collapse collapse px-4" aria-labelledby="stock-contain" data-bs-parent="#stock">
-              <a href="#!" class="w-100 btn">Sending stock</a>
+              <a href="sending-stock.php" class="w-100 btn">Sending stock</a>
               <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#received-stock" aria-expanded="true" aria-controls="received-stock" data-bs-parent="#received-stock">
                 Received stock
               </button>
               <div id="received-stock" class="accordion-collapse collapse px-4" aria-labelledby="received-stock-contain" data-bs-parent="#received-stock">
-                <a href="#!" class="w-100 btn">Sewing stock</a>
-                <a href="#!" class="w-100 btn">Finishing stock</a>
-                <a href="#!" class="w-100 btn">Cutting stock</a>
+                <a href="sewing-stock.php" class="w-100 btn">Sewing stock</a>
+                <a href="finishing-stock.php" class="w-100 btn">Finishing stock</a>
+                <a href="cutting-stock.php" class="w-100 btn">Cutting stock</a>
               </div>
-              <a href="#!" class="w-100 btn">Stock summary</a>
-              <a href="#!" class="w-100 btn">Withdraw stock</a>
+              <a href="stock-summary.php" class="w-100 btn">Stock summary</a>
+              <a href="withdraw-stock.php" class="w-100 btn">Withdraw stock</a>
             </div>
           </div>
         </div>
@@ -228,24 +228,66 @@
       <div id="Cutting" class="accordion-collapse collapse" aria-labelledby="Cutting-contain" data-bs-parent="#Cutting">
         <div class="accordion-body">
           <div class="link-list">
-            <a href="#!" class="mt-1 w-100 btn">
+            <a href="fabric-inspection-summary.php" class="mt-1 w-100 btn">
+              Fabric inspection summary
+            </a>
+            <a href="" class="mt-1 w-100 btn">
               Create Recognition
             </a>
-            <a href="#!" class="mt-1 w-100 btn">
+
+            <button class="accordion-button" type="button"      data-bs-toggle="collapse" data-bs-target="#pattern-quality"   aria-expanded="true" aria-controls="pattern-quality"      data-bs-parent="#pattern-quality">
+               Pattern Quality
+            </button>
+            <div id="pattern-quality" class="accordion-collapse collapse px-4" aria-labelledby="pattern-quality-contain" data-bs-parent="#pattern-quality">
+              <a href="" class="mt-1 w-100 btn">
+               Size set pattern
+              </a>
+              <a href="" class="mt-1 w-100 btn">
+               Pilot cutting pattern 
+              </a>
+              <a href="" class="mt-1 w-100 btn">
+                Bulk cutting pattern 
+              </a>
+            </div>
+            <a href="" class="mt-1 w-100 btn">
+              Cut order plan
+            </a>
+            <a href="" class="mt-1 w-100 btn">
               Cutting planning
             </a>
+            <button class="accordion-button" type="button"      data-bs-toggle="collapse" data-bs-target="#indside-Cutting"   aria-expanded="true" aria-controls="indside-Cutting"      data-bs-parent="#indside-Cutting">
+              Cutting
+            </button>
+            <div id="indside-Cutting" class="accordion-collapse collapse px-4" aria-labelledby="indside-Cutting-contain" data-bs-parent="#indside-Cutting">
+              <a href="#!" class="w-100 btn">
+                Relegation
+              </a>
+              <a href="#!" class="w-100 btn">
+                Relegation summary 
+              </a>
+              <a href="spreading-quality-control.php" class="w-100 btn">
+                Spreading
+              </a>
+              <a href="#!" class="w-100 btn">
+               Spreading summary
+              </a>
+            </div>
 
-            <a href="#!" class="w-100 btn">
-              Cutting update
-            </a>
+            <button class="accordion-button" type="button"      data-bs-toggle="collapse" data-bs-target="#cutting-update"   aria-expanded="true" aria-controls="cutting-update"      data-bs-parent="#cutting-update">
+             Cutting update
+            </button>
+              <div id="cutting-update" class="accordion-collapse collapse px-4" aria-labelledby="cutting-update-contain" data-bs-parent="#cutting-update">
+                <a href="#!" class="w-100 btn">
+                  Summary 
+                </a>
+              </div>
             <a href="#!" class="w-100 btn">
               Received recognition
             </a>
-
             <a href="#!" class="w-100 btn">
               Issue
             </a>
-            <a href="#!" class="w-100 btn">
+            <a href="cutting-summery.php" class="w-100 btn">
               Summary
             </a>
           </div>

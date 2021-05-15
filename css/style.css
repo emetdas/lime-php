@@ -117,7 +117,9 @@ button {
 #store .accordion-button,
 #sewing .accordion-button,
 #finishing .accordion-button,
-#packing .accordion-button {
+#packing .accordion-button,
+#Cutting .accordion-button 
+{
   background-color: rgba(252, 255, 246, 0.25) !important;
   border: none;
   padding-left: 45px;
