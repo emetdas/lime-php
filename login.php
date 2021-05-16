@@ -27,7 +27,7 @@ if (isset($_POST['submit'])) {
   <input type="submit" class="btn bg-primary text-white" value="Submit" name="submit">
 </form>
 <script>
-var forms = document.querySelectorAll('.requires-validation');
+var forms = document.querySelector('.requires-validation');
 
 // Loop over them and prevent submission
 Array.prototype.slice.call(forms)
