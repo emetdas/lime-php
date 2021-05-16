@@ -15,11 +15,10 @@ if (isset($_POST['submit'])) {
     }
 }
 ?>
-<form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>" method="POST" class="form m-auto w-50 d-flex align-content-center justify-content-center flex-column">
+<form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>" method="POST" class="height-100 form m-auto w-50 d-flex justify-content-center align-items-center flex-column">
   <div class="mb-3">
     <label for="email" class="form-label">Email address</label>
     <input type="email" name="email" class="form-control" id="email">
-    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
   </div>
   <div class="mb-3">
     <label for="password" class="form-label">Password</label>
