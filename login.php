@@ -32,8 +32,10 @@ if (isset($_POST['submit'])) {
 </div>
 <script>
     var Form = document.querySelector('.form-login');
-    Form.addEventListener('submit',()=>{
-
+    var email = document.querySelector('#email');
+    var password = document.querySelector('#password');
+    Form.addEventListener('submit',(e)=>{
+      e.preventDefault();
     });
 </script>
 <?php
