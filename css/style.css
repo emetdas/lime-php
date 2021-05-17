@@ -112,9 +112,18 @@ button {
   border: none;
   padding: 0.5rem 1rem;
 }
+/* login-start */
 .height-100{
   height: 100vh;
+  max-width: 500px;
+  width: 100%;
+  margin: 0 auto;
 }
+.height-100 .form-control{
+  min-width: 320px;
+  width: calc(100% - 2rem);
+}
+/* login-end */
 #merchandiser .accordion-button,
 #admin .accordion-button,
 #store .accordion-button,
