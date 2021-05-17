@@ -1,6 +1,7 @@
 <?php
 session_start();
 $title = "Login";
+
 include 'header.php';
 if (isset($_POST['submit'])) {
     $email = $_POST['email'];
