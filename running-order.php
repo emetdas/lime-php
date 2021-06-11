@@ -68,7 +68,6 @@ include "navbar.php";
     var progess = document.querySelectorAll('.progess');
     progess.forEach((e) => {
         e.style.width = e.getAttribute('data-porgess') + '%';
-        console.log(e.getAttribute('data-porgess') + '%');
     });
 </script>
 <?php
